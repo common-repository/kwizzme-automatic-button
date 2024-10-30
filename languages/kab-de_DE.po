@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kwizzme Auto Button Wordpress Plugin\n"
+"POT-Creation-Date: 2014-10-02 18:11+0100\n"
+"PO-Revision-Date: 2014-10-02 18:11+0100\n"
+"Last-Translator: Filip Sobalski <filip.sobalski@creativestyle.pl>\n"
+"Language-Team: Kwizzme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../admin.php:22
+msgid "Publisher Token"
+msgstr "Publisher Token"
+
+#: ../admin.php:23
+msgid "Default Button Type"
+msgstr "Standard-Buttontyp"
+
+#: ../admin.php:24
+msgid "Button Hint"
+msgstr "Infotext "
+
+#: ../admin.php:25
+msgid "Show Button"
+msgstr "Button anzeigen"
+
+#: ../admin.php:33 ../admin.php:45
+msgid "Kwizzme Automatic Button"
+msgstr "Kwizzme Automatic Button"
+
+#: ../admin.php:34
+#, fuzzy
+msgid "Kwizzme Button"
+msgstr "Kwizzme Automatic Button"
+
+#: ../admin.php:53
+msgid ""
+"Please <a href=\"mailto:johannes.leisch@kwizzme.com\">contact kwizzme</a> "
+"for more ways to display the button."
+msgstr ""
+"Weitere Möglichkeiten, den Button anzuzeigen, erhältst Du von <a href="
+"\"mailto:johannes.leisch@kwizzme.com\">kwizzme</a>."
+
+#: ../admin.php:63
+msgid "Save Changes"
+msgstr "Speichern"
+
+#: ../admin.php:98
+msgid "Show button in all posts"
+msgstr "Button zu allen Beiträgen hinzufügen"
+
+#: ../admin.php:100
+msgid "The button will be automatically added to the bottom of all posts."
+msgstr "Der Button wird automatisch zu allen Beitragen hinzugefügt."
+
+#: ../admin.php:103
+msgid "Show the button in post list"
+msgstr "Anzeigen des Buttons in der Postliste"
+
+#: ../admin.php:105
+msgid "The button will be displayed in post list."
+msgstr "Der Button wird in der Liste der Beiträge angezeigt."
+
+#: ../admin.php:129
+msgid "Paste the 32 character code you received from Kwizzme Team."
+msgstr "Füge den Token, den du vom kwizzme Team erhalten hast, hinzu."
+
+#: ../admin.php:137
+msgid "Show button hint"
+msgstr "Infotext anzeigen"
+
+#: ../admin.php:139
+msgid "Show explanation hint above the button."
+msgstr "Oberhalb des Buttons Infotext zu kwizzme für User anzeigen."
+
+#: ../kwizzme-automatic-button.php:93
+msgid "No token set for Kwizzme Auto Button!"
+msgstr "Token für Kwizzme Auto Button fehlt!"
+
+#: ../kwizzme-automatic-button.php:153
+#, php-format
+msgid "Unknown button type \"%s\" in shortcode [kwizzme-button]!"
+msgstr "Unbekannter Button-Typ \"%s\" in Shortcode [kwizzme-button]!"
+
+#: ../kwizzme-automatic-button.php:157
+msgid "The [kwizzme-button] shortcode works only in posts!"
+msgstr "Der [kwizzme-button] Shortcode funktioniert nur in Beiträgen!"
+
+#~ msgid ""
+#~ "If you like this trip, click on the button to receive personalized offers"
+#~ msgstr ""
+#~ "Wenn Dir diese Reise gefällt, klicke auf den Button, um individuelle "
+#~ "Angebote zu erhalten"
+
+#~ msgid ""
+#~ "The hint <strong>\"If you like this trip, click on the button to receive "
+#~ "personalized offers\"</strong> will be displayed above the button."
+#~ msgstr ""
+#~ "Infotext („<strong>Wenn Dir diese Reise gefällt, klicke auf den Button, "
+#~ "um individuelle Angebote zu erhalten</strong>“) über dem Button anzeigen."
+
+#~ msgid "Auto Attach"
+#~ msgstr "Automatisch hinzufügen"
+
+#~ msgid "Show In Index"
+#~ msgstr "In Liste anzeigen"
+
+#~ msgid "How to use the shortcode?"
+#~ msgstr "Wie wird der Shortcode benutzt?"
+
+#~ msgid ""
+#~ "<em>Instead</em> of using the <strong>Auto Attach</strong> option you can "
+#~ "use the shortcode."
+#~ msgstr ""
+#~ "<em>Anstatt</em> den Button <strong>automatisch Hinzuzufügen Option </"
+#~ "strong> kannst Du einen Shortcode verwenden."
+
+#~ msgid "Just insert <code>[kwizzme-button]</code> anywhere into your post."
+#~ msgstr ""
+#~ "Füge einfach <code>[kwizzme-button]</code> irgendwo in Deinem Post ein."
+
+#~ msgid ""
+#~ "You can change the type of button by writing <code>[kwizzme-button type="
+#~ "\"content-v3\"]</code>."
+#~ msgstr ""
+#~ "Du kannst den Button-Typ durch eine entsprechende Ergänzung <code>"
+#~ "[kwizzme-button type=\"content-v3\"]</code>  ändern."
+
+#~ msgid ""
+#~ "The list of available buttons can be found below in <strong>Default "
+#~ "Button Type</strong> option."
+#~ msgstr ""
+#~ "Die Liste der verfügbaren Buttons und Banner kann unten unter "
+#~ "<strong>Standard-Buttontyp</strong> eingesehen werden."
+
+#~ msgid "Attach the button automatically to all posts"
+#~ msgstr "Button automatisch Beiträgen hinzufügen"
+
+#~ msgid ""
+#~ "If this option is enabled button will be shown not only in post details "
+#~ "but also in the post list."
+#~ msgstr ""
+#~ "Wenn diese Option aktiv ist, wird der Button nicht nur im Post Detail, "
+#~ "sondern auch in der Liste der Beiträge angezeigt."
